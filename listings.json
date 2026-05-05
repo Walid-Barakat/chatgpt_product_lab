@@ -1,0 +1,47 @@
+[
+  {
+    "product": "Wireless Headphones",
+    "listing": {
+      "title": "Premium Wireless Headphones for Ultimate Comfort",
+      "description": "Experience the freedom of premium sound with our Wireless Headphones, designed for true audiophiles on the go. With cutting-edge Bluetooth technology, enjoy seamless connectivity and impressive battery life that keeps you in the groove for hours on end. The soft, cushioned ear cups provide a comfortable fit, making these headphones perfect for all-day wear. Whether you\u2019re working out, commuting, or simply relaxing at home, immerse yourself in rich, dynamic audio without the hassle of tangled wires. Plus, the sleek, modern design complements any outfit. Elevate your listening experience today with our Wireless Headphones for just $79.99!",
+      "features": [
+        "Bluetooth 5.0 for stable connectivity",
+        "Up to 20 hours of battery life",
+        "Ergonomic design for comfort",
+        "Noise isolation technology",
+        "Built-in microphone for hands-free calls"
+      ],
+      "keywords": "wireless headphones, Bluetooth headphones, noise-cancelling, comfortable headphones, on-ear headphones, wireless audio, portable headphones, wireless music, ergonomic design, audio quality, headphone features"
+    }
+  },
+  {
+    "product": "Running Shoes",
+    "listing": {
+      "title": "Premium Running Shoes for Ultimate Comfort",
+      "description": "Take your running experience to the next level with our Premium Running Shoes. Engineered for performance and style, these shoes feature a lightweight design that offers superior breathability, ensuring your feet stay cool during long runs. The responsive cushioning provides unparalleled support and shock absorption, making every stride feel effortless. With an ergonomic fit and durable outsole, you\u2019ll enjoy enhanced traction on any surface. Whether you're training for a marathon or enjoying a casual jog, these running shoes are your perfect companion. Step into comfort and elevate your performance today!",
+      "features": [
+        "Lightweight and breathable material",
+        "Responsive cushioning for support",
+        "Durable outsole for traction",
+        "Ergonomic fit for comfort",
+        "Stylish design for any occasion"
+      ],
+      "keywords": "running shoes, lightweight footwear, performance sneakers, breathable trainers, shock-absorbing shoes, durable running shoes, ergonomic fit, stylish athletic shoes, footwear, sports shoes"
+    }
+  },
+  {
+    "product": "Stainless Water Bottle",
+    "listing": {
+      "title": "Stylish Stainless Steel Water Bottle - Eco-Friendly & Durable",
+      "description": "Stay hydrated and eco-conscious with our Stainless Water Bottle. Designed for both style and functionality, this bottle is perfect for your daily adventures, whether you're at the gym, office, or exploring the great outdoors. Its stainless steel construction ensures durability and keeps your beverages cold for hours, making it ideal for hot summer days. The sleek, matte finish not only looks fantastic but also resists scratches and fingerprints, ensuring it stays pristine no matter where you take it. With a generous capacity and a leak-proof lid, you can carry your favorite drinks worry-free. Make a positive choice for the environment while enjoying convenient hydration on the go. Elevate your hydration game today!",
+      "features": [
+        "Durable stainless steel construction",
+        "Keeps beverages cold for hours",
+        "Leak-proof design",
+        "Sleek matte finish resists scratches",
+        "Eco-friendly and reusable"
+      ],
+      "keywords": "stainless steel water bottle, eco-friendly bottle, insulated water bottle, reusable drink container, durable water bottle, gym water bottle, outdoor bottle, hydration, travel bottle, kitchen accessory"
+    }
+  }
+]
